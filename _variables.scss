@@ -1,0 +1,36 @@
+// Custom
+
+$font-size: 14px;
+
+// Color system
+
+$white: #fff !default; // same
+$gray-500: #9e9e9e !default;
+$black: #000 !default; // same
+
+// Components
+
+$border-color: #d9d9d9 !default;
+$border-radius: 2px !default;
+
+// Buttons + Forms
+
+$input-btn-padding-y: px2rem(4, $font-size) !default; // @btn-padding-horizontal-base
+$input-btn-padding-x: px2rem(15, $font-size) !default; // .button-size
+
+// Buttons
+
+$btn-line-height: 1.5715 !default; // @line-height-base
+
+// Breadcrumbs
+
+$breadcrumb-bg: transparent !default;
+$breadcrumb-divider-color: $gray-500 !default;
+$breadcrumb-active-color: $gray-500 !default;
+
+// Cards
+
+$card-spacer-y: px2rem(16, $font-size) !default;
+$card-border-color: hsl(0, 0, 94%) !default;
+$card-cap-color: rgba($black, .85) !default;
+$card-cap-bg: $white !default;

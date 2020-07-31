@@ -1,0 +1,4 @@
+.anticon svg {
+  // 解决 ~bootstrap/scss/_reboot.scss 设置了 svg vertical-align: middle; 导致位置变低
+  vertical-align: baseline;
+}
