@@ -1,3 +1,23 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-bootstrap-antd/compare/v0.1.5...v0.2.0) (2022-02-05)
+
+
+### Bug Fixes
+
+* 指定 node >=12.10.0 ([b918326](https://github.com/miaoxing/mxjs-bootstrap-antd/commit/b918326c6116bf4c17c516bfbd8b37db96e2f2aa))
+
+
+### BREAKING CHANGES
+
+* 指定 node >=12.10.0
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.1` to `8.1.0`
+
 ## [0.1.5](https://github.com/miaoxing/mxjs-bootstrap-antd/compare/v0.1.4...v0.1.5) (2022-01-12)
 
 
