@@ -1,3 +1,13 @@
+## [0.2.4](https://github.com/miaoxing/mxjs-bootstrap-antd/compare/v0.2.3...v0.2.4) (2023-01-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.3` to `8.2.0`
+
 ## [0.2.3](https://github.com/miaoxing/mxjs-bootstrap-antd/compare/v0.2.2...v0.2.3) (2022-08-02)
 
 
