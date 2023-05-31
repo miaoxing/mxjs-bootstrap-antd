@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/bootstrap-antd",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "main": "index.js",
   "author": "twinh",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "testEnvironment": "node"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.2.0",
+    "@miaoxing/dev": "^8.2.1",
     "sass": "^1.42.1"
   },
   "ciDependencies": {
